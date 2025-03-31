@@ -1,9 +1,10 @@
 setup.py
 coverage_gridworld/__init__.py
 coverage_gridworld/custom.py
-coverage_gridworld/customTest.py
+coverage_gridworld/custom1.py
 coverage_gridworld/env.py
 coverage_gridworld/train.py
+coverage_gridworld/train2.py
 coverage_gridworld/wrappers.py
 coverage_gridworld.egg-info/PKG-INFO
 coverage_gridworld.egg-info/SOURCES.txt
